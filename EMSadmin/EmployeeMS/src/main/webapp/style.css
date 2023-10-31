@@ -1,0 +1,20 @@
+*{
+	margin:0px;
+	padding:0%;
+}
+body{
+	overflow-x:hidden;
+	font-family :Times New Roman;
+
+}
+.table{
+	font-size:20px;
+}
+.mynav{
+	height:100px;
+	font-size:22px;
+	}
+	
+.navbar-brand{
+	font-size:22px;
+}
