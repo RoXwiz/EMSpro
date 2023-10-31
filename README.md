@@ -5,5 +5,5 @@ In this system, I have to implement essential admin operations such as admin log
 All these operations are monitoring via the admin. To do that I have created the admin dashboard in this system.
 By using this dashboard, the admin can easily operate the system.
 
-Technology Stack
+Technology Stack :
 JAVA | Servlet | JSP | MySQL
